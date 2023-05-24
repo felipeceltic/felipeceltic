@@ -4,7 +4,7 @@ Changing my life, solving problems 😎
 
 
 ## 🛠 Skills
-HTML, CSS, JS, PHP, Java and upgrading my 🧠
+HTML, CSS, JS, React, PHP, Laravel and upgrading my 🧠
 
 ## 🚀 About Me
 Tryng to be a brilliant full stack developer 👨🏻‍💻
