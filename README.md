@@ -1,4 +1,4 @@
-# Hi, I'm [Luiz Felipe]! 👋
+# Hi, I'm Luiz Felipe! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/felipeceltic?style=social)](https://github.com/felipeceltic)
 
