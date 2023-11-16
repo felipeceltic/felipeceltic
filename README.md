@@ -1,6 +1,6 @@
 # Hi, I'm Luiz Felipe! 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/felipeceltic/felipeceltic/blob/master/devcard.svg" width="400" alt="Luiz Felipe's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/felipeceltic/felipeceltic/blob/master/devcard.png" width="400" alt="Luiz Felipe's Dev Card"/></a>
 
 [![GitHub followers](https://img.shields.io/github/followers/felipeceltic?style=social)](https://github.com/felipeceltic)
 
