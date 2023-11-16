@@ -1,6 +1,6 @@
 # Hi, I'm Luiz Felipe! 👋 [![GitHub followers](https://img.shields.io/github/followers/felipeceltic?style=social)](https://github.com/felipeceltic)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/felipeceltic/felipeceltic/blob/main/devcard.png" width="150" alt="Luiz Felipe's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/felipeceltic/felipeceltic/blob/main/devcard.png" width="180" alt="Luiz Felipe's Dev Card"/></a>
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in Laravel and a knack for building exceptional web applications. 
 
