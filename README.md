@@ -2,7 +2,8 @@
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/felipeceltic/felipeceltic/blob/main/devcard.png" width="200" alt="Luiz Felipe's Dev Card"/></a>
 
-## 🧑‍💻 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in Laravel and a knack for building exceptional web applications.
+## 🧑‍💻 Welcome to my GitHub profile! 
+I'm a passionate full-stack developer with expertise in Laravel and a knack for building exceptional web applications.
 
 ## 🔧 Technologies and Tools
 
